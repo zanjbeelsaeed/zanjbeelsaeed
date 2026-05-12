@@ -4,10 +4,6 @@
 Digital Architect • Graphic Designer • Literary Enthusiast
 </h3>
 
-<p align="center">
-  Building digital experiences through code, creativity, and storytelling.
-</p>
-
 <br>
 
 
@@ -18,7 +14,8 @@ Digital Architect • Graphic Designer • Literary Enthusiast
 ---
 
 ## 🚀 About Me
-<img align="right" src="https://media.baamboozle.com/uploads/images/358185/1619783289_335117_url.gif" alt="CODING" width="400">
+
+<img align="right" width="320"  alt="CODING" src="https://github.com/user-attachments/assets/f2fa5b10-a4d1-411c-a5d6-3133231df208" />
 
 
 - 🔭 Currently working on **interactive dashboards using Chart.js & D3.js**
