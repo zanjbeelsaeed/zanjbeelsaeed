@@ -68,6 +68,22 @@
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zanjbeelsaeed&show_icons=true&theme=tokyonight" />
+
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zanjbeelsaeed&layout=compact&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+  
+  <img width="70%" 
+       src="https://streak-stats.demolab.com?user=zanjbeelsaeed&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ## ✨ Quote I Live By
  “Creativity meets logic where innovation begins.”
