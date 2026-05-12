@@ -72,9 +72,9 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zanjbeelsaeed&show_icons=true&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zanjbeelsaeed&show_icons=true&theme=tokyonight" />
 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zanjbeelsaeed&layout=compact&theme=tokyonight" />
+ <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zanjbeelsaeed&layout=compact&theme=tokyonight" />
 
 </p>
 
