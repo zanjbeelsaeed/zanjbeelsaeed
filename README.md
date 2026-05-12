@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zanjbeel Saeed</h1>
+<div align="center">
+  <img src="https://github.com/zanjbeelsaeed/zanjbeelsaeed/blob/main/github.png.png?raw=true" 
+       alt="Zanjbeel Saeed Profile" 
+       width="100%" 
+       style="display: block; max-width: 100%; height: auto;" />
+</div><h1 align="center">Hi 👋, Zanjbeel Here</h1>
 <h3 align="center">Digital Architect • Graphic Designer • Literary Enthusiast</h3>
 
 <img align="right" 
