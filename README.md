@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zanjbeel Saeed</h1>
+<h3 align="center">Digital Architect • Graphic Designer • Literary Enthusiast</h3>
 
-<h3 align="center">
-Digital Architect • Graphic Designer • Literary Enthusiast
-</h3>
-
-<br>
-
+<img align="right" 
+     src="https://media.baamboozle.com/uploads/images/358185/1619783289_335117_url.gif" 
+     alt="Coding" 
+     width="400" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zanjbeelsaeed&label=Profile%20Views&color=7F3FBF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zanjbeelsaeed&label=Profile%20views&color=0e75b6&style=flat" 
+       alt="zanjbeelsaeed" />
 </p>
-
----
 
 ## 🚀 About Me
 
