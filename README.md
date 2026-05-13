@@ -94,4 +94,3 @@
   ⭐ From <a href="https://github.com/zanjbeelsaeed">zanjbeelsaeed</a>
 </p>
 
-![Snake](https://raw.githubusercontent.com/<zanjbeelsaeed>/<zanjbeelsaeed>/output/snake.svg)
