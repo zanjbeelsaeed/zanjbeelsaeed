@@ -85,10 +85,10 @@
 
 </p>
 
-<h2 align="center">⚡Contribution Graph⚡</h2>
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zanjbeelsaeed/zanjbeelsaeed/output/github-snake-dark.svg" alt="Neon Snake Animation" />
+  <img src="https://raw.githubusercontent.com/zanjbeelsaeed/zanjbeelsaeed/output/github-snake.svg" />
 </p>
 
 <p align="center">
