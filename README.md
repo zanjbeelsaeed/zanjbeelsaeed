@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://github.com/zanjbeelsaeed/zanjbeelsaeed/blob/main/github.png.png?raw=true" 
        alt="Zanjbeel Saeed Profile" 
        width="100%" 
@@ -72,33 +72,21 @@
 
 <p align="center">
   
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zanjbeelsaeed&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zanjbeelsaeed&show_icons=true&theme=tokyonight" />
 
- <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zanjbeelsaeed&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zanjbeelsaeed&layout=compact&theme=tokyonight" />
 
 </p>
 
 <p align="center">
   
-  <img width="100%" 
+  <img width="70%" 
        src="https://streak-stats.demolab.com?user=zanjbeelsaeed&theme=tokyonight&hide_border=true" />
 
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zanjbeelsaeed/zanjbeelsaeed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
-> The snake animation visualizes your GitHub contribution graph in a dynamic, mesmerizing way! 🌙✨
-
----
-
 ## ✨ Quote I Live By
- "Creativity meets logic where innovation begins."
+ “Creativity meets logic where innovation begins.”
 
 ---
 
