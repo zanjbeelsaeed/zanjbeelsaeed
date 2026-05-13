@@ -80,7 +80,7 @@
 
 <p align="center">
   
-  <img width="70%" 
+  <img width="100%" 
        src="https://streak-stats.demolab.com?user=zanjbeelsaeed&theme=tokyonight&hide_border=true" />
 
 </p>
