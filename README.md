@@ -85,10 +85,11 @@
 
 </p>
 
-## ✨ Quote I Live By
- “Creativity meets logic where innovation begins.”
+<h2 align="center">⚡ Neon Contribution Snake ⚡</h2>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zanjbeelsaeed/zanjbeelsaeed/output/github-snake-dark.svg" alt="Neon Snake Animation" />
+</p>
 
 <p align="center">
   ⭐ From <a href="https://github.com/zanjbeelsaeed">zanjbeelsaeed</a>
