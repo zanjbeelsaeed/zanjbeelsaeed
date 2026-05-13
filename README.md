@@ -85,12 +85,20 @@
 
 </p>
 
+---
+
+## 🐍 GitHub Contribution Snake Animation
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zanjbeelsaeed/zanjbeelsaeed/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/zanjbeelsaeed/zanjbeelsaeed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
+> The snake animation visualizes your GitHub contribution graph in a dynamic, mesmerizing way! 🌙✨
+
+---
+
 ## ✨ Quote I Live By
- “Creativity meets logic where innovation begins.”
+ "Creativity meets logic where innovation begins."
 
 ---
 
