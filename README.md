@@ -85,6 +85,10 @@
 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zanjbeelsaeed/zanjbeelsaeed/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## ✨ Quote I Live By
  “Creativity meets logic where innovation begins.”
 
